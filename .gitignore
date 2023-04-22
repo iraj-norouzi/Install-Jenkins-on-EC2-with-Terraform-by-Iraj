@@ -3,7 +3,7 @@
 **/private-key/*.pem
 **/code/private-key/terraform-key.pem
 /code/private-key/terraform-key.pem
-**/*.pem
+**/*/*.pem
 **/private-key/*.pem
 # .tfstate files
 *.tfstate
@@ -36,4 +36,3 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
-*.git
