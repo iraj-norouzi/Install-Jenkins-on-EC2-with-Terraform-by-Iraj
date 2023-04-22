@@ -1,5 +1,7 @@
 # Local .terraform directories
+**/code/.terraform/*
 **/.terraform/*
+**/code/terraform-key.pem
 code/private-key/*.pem
 code/private-key/terraform-key.pem
 /code/private-key/terraform-key.pem
