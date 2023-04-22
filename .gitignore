@@ -1,7 +1,8 @@
 # Local .terraform directories
 **/.terraform/*
-**/private-key/*
+**/private-key/*.pem
 **/code/private-key/terraform-key.pem
+/code/private-key/terraform-key.pem
 **/*.pem
 **/private-key/*.pem
 # .tfstate files
